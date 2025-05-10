@@ -12,6 +12,20 @@ Installation:
     Download and install Python from python.org.
     Ensure Python is added to your system's PATH.
 
+Adding and Using Libraries
+
+This project primarily uses Python's standard libraries. However, if you need to install any external libraries, follow the instructions below:
+Installing External Libraries
+
+    Using pip:
+    Open your terminal or command prompt and run:
+    pip install library_name
+
+    
+
+Replace library_name with the actual name of the library you wish to install. For example, if you need to install numpy:     
+
+    pip install numpy
 Usage
 
     Clone the repository:

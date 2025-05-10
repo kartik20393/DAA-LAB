@@ -29,21 +29,13 @@ Replace library_name with the actual name of the library you wish to install. Fo
 Usage
 
     Clone the repository:
-
-      
-
-git clone https://github.com/yourusername/DAA-LAB.git
-cd DAA-LAB
-
-    
-
+    git clone https://github.com/yourusername/DAA-LAB.git
+    cd DAA-LAB
     Navigate to the desired program folder, e.g., sorting.
 
-    Run the program using Python:
+Run the program using Python:
 
     python bubble_sort.py
-
-    
 
 (Replace bubble_sort.py with the respective program name.)
 
